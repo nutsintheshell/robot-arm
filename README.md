@@ -1,2 +1,2 @@
 # robot-arm
-build robot arm by robot toolbox
+build robot arm by robotic toolbox
